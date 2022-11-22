@@ -1,0 +1,30 @@
+Location
+1. Bangkok
+2. Kanchanaburi
+3. Chanthaburi 
+4. Chachoengsao
+5. Chumphon
+6. Chonburi
+7. Trat 
+8. Tak 
+9. Nakhon Nayok  
+10. Nakhon Pathom 
+11. Nonthaburi 
+12. Pathum Thani
+13. Prachuap Khiri 
+14. Prachinburi 
+15. Phra Nakhon Si Ayutthaya
+16. Phetchaburi 
+17. Ratchaburi 
+18. Ranong 
+19. Rayong 
+20. Lopburi 
+21. Singburi
+22. Samut Prakan
+23. Samut Songkhram
+24. Samut Sakhon
+25. Suphanburi
+26. Sa Kaeo
+27. Saraburi
+28. Ang Thong
+0. Others
